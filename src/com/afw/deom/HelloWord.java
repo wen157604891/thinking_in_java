@@ -4,5 +4,6 @@ public class HelloWord {
 
 	public static void main(String[] args) {
 		System.out.println("main方法打印");
+		System.out.println("我是test提交");
 	}
 }
